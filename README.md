@@ -46,7 +46,7 @@ Tujuan utama dari proyek ini dipecah menjadi tiga pilar utama:
 ## 4. Dataset yang Digunakan
 * **Nama Dataset:** Student Exam Scores: Extended Dataset
 * **Sumber:** Kaggle
-* **Link:** *[MASUKKAN LINK DATASET DARI KAGGLE DI SINI]*
+* **Link:** *https://www.kaggle.com/datasets/emanfatima2025/student-academic-performance-trends*
 * **Deskripsi Kolom:**
     * `student_id`: Identifier unik untuk setiap mahasiswa.
     * `hours_studied`: Rata-rata jam belajar mahasiswa per hari.
